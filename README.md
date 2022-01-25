@@ -1,4 +1,4 @@
-### Saudações de acordo com o horário do dia 👋
+### Saudações de acordo ao horário do dia 👋
 ##
 Trata-me por Margarida, prazer 😊🤝
 
