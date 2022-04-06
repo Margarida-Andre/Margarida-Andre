@@ -10,9 +10,9 @@ Trata-me por Margarida, prazer 😊🤝
 - 📝 Estudando SCRUM 
 
 <div align="center">
-  <a href="https://github.com/Margarida-do-Amara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Margarida-do-Amaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Margarida-do-Amaral&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Margarida-Andre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Margarida-Andre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Margarida-Andre&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
