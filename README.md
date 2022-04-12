@@ -6,7 +6,7 @@ Trata-me por Margarida, prazer 😊🤝
 
 - 💻 Sou desenvolvedora web
 - 🎯 Actualmente trabalho como front-end developer 
-- 👩‍💻 Sou administradora e embaixadora da CDA Girls
+- 👩‍💻 Administradora e embaixadora da CDA Girls
 - 📚 Sou estudante de engenharia informática
 - 📝 Estudando SCRUM 
 
