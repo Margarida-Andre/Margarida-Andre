@@ -8,7 +8,7 @@ Trata-me por Margarida, prazer 😊🤝
 - 🎯 Actualmente trabalho como front-end developer 
 - 👩‍💻 Administradora e embaixadora da CDA Girls
 - 📚 Finalista do curso engenharia de informática
-- 📝 Estudando TDD (desenvolvimento digirido a testes)
+- 📝 Estudando Angularjs 👩‍💻🎯
 
 <div align="center">
   <a href="https://github.com/Margarida-Andre">
