@@ -5,10 +5,10 @@ Trata-me por Margarida, prazer 😊🤝
 
 
 - 💻 Sou desenvolvedora web
-- 🎯 Actualmente trabalho como front-end developer 
-- 👩‍💻 Administradora e embaixadora da CDA Girls
+- 🎯 Actualmente trabalho como front-end developer e suporte de operações
+- 👩‍💻 Líder das embaixadoras na CDA Girls
 - 📚 Finalista do curso engenharia de informática
-- 📝👩‍💻 Estudando Angularjs 
+- 📝👩‍💻 Aprendendo Angularjs 
 
 <div align="center">
   <a href="https://github.com/Margarida-Andre">
