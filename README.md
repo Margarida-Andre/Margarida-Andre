@@ -3,11 +3,10 @@
 Trata-me por Margarida, prazer 😊🤝
 
 
-
-- 💻 Sou desenvolvedora web
+- 📚 Sou formada em Engenharia Informática
+- 💻 Desenvolvedora web
 - 🎯 Actualmente trabalho como front-end developer e suporte de operações
 - 👩‍💻 Líder das embaixadoras na CDA Girls
-- 📚 Engenheira Informática
 - 📝👩‍💻 Aprendendo Angularjs e Suporte de Operações
 
 <div align="justify">
