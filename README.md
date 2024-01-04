@@ -7,7 +7,7 @@ Trata-me por Margarida, prazer 😊🤝
 - 💻 Sou desenvolvedora web
 - 🎯 Actualmente trabalho como front-end developer e suporte de operações
 - 👩‍💻 Líder das embaixadoras na CDA Girls
-- 📚 Finalista do curso engenharia de informática
+- 📚 Engenheira Informática
 - 📝👩‍💻 Aprendendo Angularjs e Suporte de Operações
 
 <div align="justify">
